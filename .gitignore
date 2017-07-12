@@ -42,3 +42,5 @@ nbproject
 .node_history
 .npmrc
 lib
+package-lock.json
+.Trashes
